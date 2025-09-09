@@ -1,0 +1,18 @@
+# Ignore system and config files
+*.log
+*.lst
+*.dat
+adbkey*
+LdNatNetwork*
+VBoxSVC.log.*
+.gitconfig
+
+# Ignore OS-specific files
+Thumbs.db
+.DS_Store
+
+# Ignore IDE/editor files
+.vscode/
+*.suo
+*.user
+*.cache
